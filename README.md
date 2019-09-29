@@ -1,2 +1,4 @@
 # ImageNet_Architectures
-ILSVRC architectures implemented using PyTorch
+
+PyTorch Implementation of different Alex-Net, VGG-Net, Res-Net
+
